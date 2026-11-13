@@ -1,0 +1,11 @@
+﻿## Interface: 11500
+## Title: PersoUIClassic
+## Version: v2.0.0
+## Author: Coolspot
+## Notes: Modifie l'interface de base de blizzard a ma convenance
+## OptionalDeps:
+## Dependencies:
+## SavedVariables:
+## X-Website: 
+PersoUIClassic.lua
+artFrames.xml
